@@ -1,0 +1,2 @@
+Real runtime logs are written to ~/.sephizen/logs/ (commands.log, errors.log, warnings.log).
+This folder is kept as a placeholder in the packaged project structure.
